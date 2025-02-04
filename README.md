@@ -1,13 +1,13 @@
 # invent
 Inventory Bengkel
 
-==========Catatan=========
+==================================================
 
-## Cek NPM version
+### Cek NPM version
 > npm outdated
 
-## update all depency
+### update all depency
 > npm update
 
-## Lalu simpan pada package
+### Lalu simpan pada package
 > npm update --save
